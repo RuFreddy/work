@@ -1,0 +1,27 @@
+.maincontainer {
+  width: 1515px;
+  height: 450px;
+  margin-left: 400px;
+}
+.bluebutton {
+  background-color: rgb(58, 58, 238);
+  width: 80px;
+  height: 30px;
+  margin-bottom: 200px;
+  margin-left: 40px;
+}
+
+.course {
+  margin-bottom: 200px;
+}
+.container1 {
+  margin-top: -90px;
+  background-color: rgb(245, 245, 245);
+  width: 370px;
+  height: 300px;
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
